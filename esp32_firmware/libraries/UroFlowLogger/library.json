@@ -1,0 +1,10 @@
+{
+  "name": "UroFlowLogger",
+  "version": "1.2.0",
+  "dependencies": [
+    {"name": "Arduino"},
+    {"name": "SPI"},
+    {"name": "SD"},
+    {"name": "DataSample"}
+  ]
+}

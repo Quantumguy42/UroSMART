@@ -1,0 +1,9 @@
+{
+  "name": "RTC",
+  "version": "1.0.0",
+  "dependencies": [
+    {"name": "Arduino"},
+    {"name": "time"},
+    {"name": "adafruit/RTClib@^2.1.4"}
+  ]
+}

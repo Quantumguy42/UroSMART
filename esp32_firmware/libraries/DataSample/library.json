@@ -1,0 +1,9 @@
+{
+  "name": "DataSample",
+  "version": "1.0.0",
+  "dependencies": [
+    {"name": "Arduino"},
+    {"name": "time"},
+    {"name": "RTC"}
+  ]
+}

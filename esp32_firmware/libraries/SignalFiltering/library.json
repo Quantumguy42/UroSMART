@@ -1,0 +1,8 @@
+{
+  "name": "SignalFiltering",
+  "version": "1.0.0",
+  "dependencies": [
+    {"name": "Arduino"},
+    {"name": "vector"}
+  ]
+}
